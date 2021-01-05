@@ -1,0 +1,8 @@
+# This file is machine-generated - editing it directly is not advised
+
+[[FromFile]]
+git-tree-sha1 = "58edf4740c91df1b739aecc35d73a090d6338f73"
+repo-rev = "master"
+repo-url = "https://github.com/Roger-luo/FromFile.jl"
+uuid = "ff7dd447-1dcb-4ce3-b8ac-22a812192de7"
+version = "0.1.0"
