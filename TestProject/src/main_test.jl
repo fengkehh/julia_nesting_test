@@ -7,6 +7,8 @@ import Module5: AbstractNestedFoo, nested_func, NestedBar, abstract_foo_func5, m
 
 println(module5_global)
 x = Bar(3)
+y = Bar(4)
+alpha = (x + y)::Bar
 test = module4_func(x)
 
 struct MyOwnNestedBar <: AbstractNestedFoo
